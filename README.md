@@ -1,4 +1,5 @@
 # hello-world
-First repository
 
-Hello, first change to the branch
+
+Hello, first change to the branch, removed comment "first repository"
+
